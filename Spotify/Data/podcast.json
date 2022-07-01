@@ -1,0 +1,507 @@
+[
+    {
+    "api_warning": "You should include a version number in your API requests",
+    "body": [
+        {
+            "type": "Channel",
+            "id": 4698134,
+            "created_at": "2016-04-20T17:26:56.000Z",
+            "updated_at": "2022-06-23T12:40:21.502Z",
+            "title": "Stock Day Media",
+            "description": "Welcome to Stock Day Media. Beginning with our Stock Day podcast we give Micro-Cap companies transparency and investors the information they need to make informed decisions about their investment portfolio. Our CEO Everett Jolly has over twenty-five years in the financial sector. With that experience comes a wealth of knowledge and a desire to teach investors about the Micro-Cap market. The Micro-Cap/Penny Stock space offers many options for investors.",
+            "formatted_description": "<p>Welcome to Stock Day Media. Beginning with our Stock Day podcast we give Micro-Cap companies transparency and investors the information they need to make informed decisions about their investment portfolio. Our CEO Everett Jolly has over twenty-five years in the financial sector. With that experience comes a wealth of knowledge and a desire to teach investors about the Micro-Cap market. The Micro-Cap/Penny Stock space offers many options for investors.</p>\r\n",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4698134",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/35084507"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/37485391"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 177,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4702115,
+            "created_at": "2016-04-25T15:52:48.000Z",
+            "updated_at": "2021-06-29T09:41:35.000Z",
+            "title": "POSTA",
+            "description": "Radio del futuro.",
+            "formatted_description": "<p>Radio del futuro.</p>\n",
+            "parent_channel_id": null,
+            "channel_style": "messy",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4702115",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/28456821"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/26846951"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 182,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4322549,
+            "created_at": "2015-08-31T21:34:08.000Z",
+            "updated_at": "2022-06-28T14:04:59.369Z",
+            "title": "Astonishing Legends",
+            "description": "The world is more mysterious than most people are comfortable imagining. We cross paths with the mystical from time to time and may not even notice it. If we do, we quickly return to our usually mundane daily existence. But what if we not only acknowledged the unknown, we investigated it and spoke with those in the know? That’s what co-hosts Scott & Forrest, and their producer Tess Pfeifle do at Astonishing Legends. Over 85 million downloads and hundreds of thousands of listeners have shown that exploring and embracing the wonders of our world can be not only enlightening but exciting.  Welcome to Astonishing Legends!",
+            "formatted_description": "<div>The world is more mysterious than most people are comfortable imagining. We cross paths with the mystical from time to time and may not even notice it. If we do, we quickly return to our usually mundane daily existence. But what if we not only acknowledged the unknown, we investigated it and spoke with those in the know? That’s what co-hosts Scott &amp; Forrest, and their producer Tess Pfeifle do at Astonishing Legends. Over 85 million downloads and hundreds of thousands of listeners have shown that exploring and embracing the wonders of our world can be not only enlightening but exciting.  Welcome to Astonishing Legends!</div>",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4322549",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/37374824"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/37114674"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 186,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4950176,
+            "created_at": "2018-03-20T17:15:21.000Z",
+            "updated_at": "2021-06-29T09:42:52.000Z",
+            "title": "Marcia Clark Investigates The First 48",
+            "description": "Famed prosecutor and defense attorney Marcia Clark delves into some of the most controversial homicides in America. These are cases that have shocked and captivated the public, but have outcomes that are either unresolved, or leave more questions than answers. Now, Marcia will speak with experts, review the facts, and use her own expertise to shed new light on cases which have been left in the darkness. See more Marcia Clark Investigates The First 48 on A&E, at http://aetv.com, and on Crime + Investigation in the UK.",
+            "formatted_description": "<p>Famed prosecutor and defense attorney Marcia Clark delves into some of the most controversial homicides in America. These are cases that have shocked and captivated the public, but have outcomes that are either unresolved, or leave more questions than answers. Now, Marcia will speak with experts, review the facts, and use her own expertise to shed new light on cases which have been left in the darkness. See more Marcia Clark Investigates The First 48 on A&amp;E, at <a target=\"_blank\" rel=\"nofollow noopener\" href=\"http://aetv.com\">aetv.com</a>, and on Crime + Investigation in the UK.</p>\n",
+            "parent_channel_id": 4961552,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4950176",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/32104276"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/32104273"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 201,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4053688,
+            "created_at": "2015-06-12T16:06:55.000Z",
+            "updated_at": "2021-06-29T09:41:04.000Z",
+            "title": "Peristyle Podcast - USC Trojan Football Discussion",
+            "description": "Welcome and thanks for checking out the Peristyle Podcast, our internet radio show covering the USC Trojan football team. Every week host Ryan Abraham brings you multiple Trojan talk podcasts, with a variety of guests and opinions talking about football, basketball, recruiting and more!",
+            "formatted_description": "<p>Welcome and thanks for checking out the Peristyle Podcast, our internet radio show covering the USC Trojan football team. Every week host <strong>Ryan Abraham</strong> brings you multiple Trojan talk podcasts, with a variety of guests and opinions talking about football, basketball, recruiting and more!</p>\n",
+            "parent_channel_id": 4053682,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4053688",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/28014019"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/15137611"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 204,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4842113,
+            "created_at": "2016-10-03T15:08:54.000Z",
+            "updated_at": "2021-10-14T16:46:48.946Z",
+            "title": "Missing Maura Murray",
+            "description": "\"Missing Maura Murray\" is a true crime podcast about the mysterious disappearance of Maura Murray. Maura was a 21 year old college student in February of 2004 when she inexplicably drove three hours from her dorm in Amherst, Massachusetts to the White Mountains of New Hampshire and vanished. At approximately 7:30pm her car was involved in a single car, non life threatening accident at a hairpin turn on the dark and desolate Route 112. The few witnesses who spoke with police said she denied their assistance. She was gone without a trace before the police showed up approximately ten minutes later. She has never been seen or heard from since. Now two filmmakers set out to make a documentary and find answers on this mystery by diving deep into Maura's life, the region in which she went missing, and the online world of citizen detectives.",
+            "formatted_description": "<p>\"Missing Maura Murray\" is a true crime podcast about the mysterious disappearance of Maura Murray. Maura was a 21 year old college student in February of 2004 when she inexplicably drove three hours from her dorm in Amherst, Massachusetts to the White Mountains of New Hampshire and vanished. At approximately 7:30pm her car was involved in a single car, non life threatening accident at a hairpin turn on the dark and desolate Route 112. The few witnesses who spoke with police said she denied their assistance. She was gone without a trace before the police showed up approximately ten minutes later. She has never been seen or heard from since. Now two filmmakers set out to make a documentary and find answers on this mystery by diving deep into Maura's life, the region in which she went missing, and the online world of citizen detectives.</p>\n",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4842113",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/32013806"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/24680336"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 184,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4907576,
+            "created_at": "2017-05-30T19:56:31.000Z",
+            "updated_at": "2021-06-29T09:42:06.000Z",
+            "title": "Unconcluded",
+            "description": "Unconcluded is a real-time investigative true crime series focused on the 2006 disappearance of Jennifer Kesse (Orlando, FL).",
+            "formatted_description": "<p>Unconcluded is a real-time investigative true crime series focused on the 2006 disappearance of Jennifer Kesse (Orlando, FL).</p>\n",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4907576",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/28576729"
+                },
+                "banner_image": {
+                    "original": null
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 189,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4920938,
+            "created_at": "2017-08-02T19:05:53.000Z",
+            "updated_at": "2021-06-29T09:42:13.000Z",
+            "title": "Courtside: The Official Podcast of the US Open",
+            "description": "Courtside is celebrating 50 years of the US Open in 2018! Host Nick McCarvel and renowned tennis historian Steve Flink take us through the 2018 tennis season and count fans down to the US Open. Courtside is a USTA production in association with audioboom.",
+            "formatted_description": "<p>Courtside is celebrating 50 years of the US Open in 2018! Host Nick McCarvel and renowned tennis historian Steve Flink take us through the 2018 tennis season and count fans down to the US Open. Courtside is a USTA production in association with audioboom.</p>\n",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4920938",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/32101535"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/32101577"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 214,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4929696,
+            "created_at": "2017-09-25T21:55:58.000Z",
+            "updated_at": "2021-06-29T09:42:28.000Z",
+            "title": "InBox",
+            "description": "Inbox challenges guests to offer up access to their digital correspondence and allow their personal lives to be mined for comedy gold. Each week, hosts Nicole Drespel (Netflix’s Wet Hot American Summer) and Matt Stroup (Emmy Award-winning sports TV writer) look over the shoulders of comedians, performers, actors and anyone willing to explore all the buried treasure of embarrassment their inbox has just waiting to be discovered!",
+            "formatted_description": "<p>Inbox challenges guests to offer up access to their digital correspondence and allow their personal lives to be mined for comedy gold. Each week, hosts Nicole Drespel (Netflix’s Wet Hot American Summer) and Matt Stroup (Emmy Award-winning sports TV writer) look over the shoulders of comedians, performers, actors and anyone willing to explore all the buried treasure of embarrassment their inbox has just waiting to be discovered!</p>\n",
+            "parent_channel_id": 5000504,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4929696",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/34844157"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/34844154"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 178,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4254821,
+            "created_at": "2015-08-12T16:42:09.000Z",
+            "updated_at": "2022-06-27T21:00:00.247Z",
+            "title": "Quémese después de Escuchar",
+            "description": "Un podcast sobre películas y series.",
+            "formatted_description": "<p>Un podcast sobre películas y series.</p>\r\n",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4254821",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/33439910"
+                },
+                "banner_image": {
+                    "original": null
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 180,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 3707865,
+            "created_at": "2015-04-08T16:32:12.000Z",
+            "updated_at": "2021-06-29T09:40:32.000Z",
+            "title": "Procedurally Generated",
+            "description": "Join Henry Bell, Tom Schreier and Max Hamilton for a weekly discussion of the state of gaming, recent releases and what they're playing. They'll be covering current headlines while sharing their takes, experiences and love of gaming.",
+            "formatted_description": "<p>Join Henry Bell, Tom Schreier and Max Hamilton for a weekly discussion of the state of gaming, recent releases and what they're playing. They'll be covering current headlines while sharing their takes, experiences and love of gaming.</p>\n",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/3707865",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/18958159"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/18958156"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 185,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4903323,
+            "created_at": "2017-02-18T20:00:11.000Z",
+            "updated_at": "2021-10-06T14:31:53.252Z",
+            "title": "The 45th",
+            "description": "The 24-hour news cycle can barely keep up with the Trump Administration. For a deeper dive and a closer look at the latest developments out of the White House tune in to \"The 45th\". Hosted by Rabia Chaudry and Susan Simpson, \"The 45th\" is a weekly dissection of policy and spectacle with guests and perspectives from across the political spectrum.",
+            "formatted_description": "<p>The 24-hour news cycle can barely keep up with the Trump Administration. For a deeper dive and a closer look at the latest developments out of the White House tune in to \"The 45th\". Hosted by Rabia Chaudry and Susan Simpson, \"The 45th\" is a weekly dissection of policy and spectacle with guests and perspectives from across the political spectrum.</p>\n",
+            "parent_channel_id": 5000504,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4903323",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/34844093"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/34844090"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 200,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4950586,
+            "created_at": "2018-03-22T14:49:55.000Z",
+            "updated_at": "2021-06-29T09:43:00.000Z",
+            "title": "The Morning After Sports Betting",
+            "description": "This daily morning show is based around the \"train wreck\" real life of host, Gabe Morency. Coined, â€œthe Stephen A. Smith of sports betting talk,â€ by Forbes Magazine, the long-time radio and TV personality, purged from Toronto, has done everything from host the Montreal Expos post game show, to front the heavy metal band, Homicide.\n\nGabeâ€™s daily revelations of previous nightâ€™s escapades in the world of Sports Wagering often end up in comical, surreal resolutions, having listeners obsessively tune in to see what predicaments Gabe had gotten himself into, and how he fared in the end. Veteran co-host/handicapper Joe Raneri keeps the show honest and classes up the joint w/ facts, data, logic and reason.As seen live on SportsGrid Network popular OTT video platforms, weekdays from 9am â€“ 12pm EST.\n\nHeard live on the FNTSY Sports Radio Network, weekdays from 9am â€“ 12pm EST.",
+            "formatted_description": "<p>This daily morning show is based around the \"train wreck\" real life of host, Gabe Morency. Coined, â€œthe Stephen A. Smith of sports betting talk,â€ by Forbes Magazine, the long-time radio and TV personality, purged from Toronto, has done everything from host the Montreal Expos post game show, to front the heavy metal band, Homicide.</p>\n\n<p>Gabeâ€™s daily revelations of previous nightâ€™s escapades in the world of Sports Wagering often end up in comical, surreal resolutions, having listeners obsessively tune in to see what predicaments Gabe had gotten himself into, and how he fared in the end. Veteran co-host/handicapper Joe Raneri keeps the show honest and classes up the joint w/ facts, data, logic and reason.As seen live on SportsGrid Network popular OTT video platforms, weekdays from 9am â€“ 12pm EST.</p>\n\n<ul>\n<li>Heard live on the FNTSY Sports Radio Network, weekdays from 9am â€“ 12pm EST.</li>\n</ul>\n",
+            "parent_channel_id": 4790086,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4950586",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/35404062"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/35404064"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 202,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4922466,
+            "created_at": "2017-08-09T16:18:43.000Z",
+            "updated_at": "2021-06-29T09:42:28.000Z",
+            "title": "Deliberations",
+            "description": "What really happens when a jury retires to deliberate?\n\nFind out each week on Deliberations, a modern day, improvised audio drama that allows criminal justice enthusiasts to step inside a jury room. Each season explores a different courtroom drama inspired by real life criminal trials in the news. Six improvisers serve as the jury and passionately react, negotiate, and argue opposing interpretations of the evidence.\n\nSeason Two examines the rights of accusers and defendants in cases of sexual misconduct. Tallahassee college student Keith Montgomery stands accused of rape, leading jurors to face the question: who is lying?\n\nSeason One explores the murder trial of dominatrix Samantha Hall, charged with murdering her submissive lover with a rope. Was it an erotic asphyxiation gone awry or a premeditated killing?",
+            "formatted_description": "<p>What really happens when a jury retires to deliberate?</p>\r\n\r\n<p>Find out each week on Deliberations, a modern day, improvised audio drama that allows criminal justice enthusiasts to step inside a jury room. Each season explores a different courtroom drama inspired by real life criminal trials in the news. Six improvisers serve as the jury and passionately react, negotiate, and argue opposing interpretations of the evidence.</p>\r\n\r\n<p>Season Two examines the rights of accusers and defendants in cases of sexual misconduct. Tallahassee college student Keith Montgomery stands accused of rape, leading jurors to face the question: who is lying?</p>\r\n\r\n<p>Season One explores the murder trial of dominatrix Samantha Hall, charged with murdering her submissive lover with a rope. Was it an erotic asphyxiation gone awry or a premeditated killing?</p>\r\n",
+            "parent_channel_id": 5000504,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4922466",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/34844143"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/34844140"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 188,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4194740,
+            "created_at": "2015-07-28T15:57:58.000Z",
+            "updated_at": "2020-09-25T15:12:57.000Z",
+            "title": "Power Play Podcast",
+            "description": "Get inside the sport of hockey and the Tampa Bay Lightning with the Power Play Podcast , Tuesdays on Lightning Power Play! Follow us on Twitter @TBLPowerPlay",
+            "formatted_description": "<p>Get inside the sport of hockey and the Tampa Bay Lightning with the Power Play Podcast , Tuesdays on Lightning Power Play! Follow us on Twitter @TBLPowerPlay</p>\n",
+            "parent_channel_id": 4297482,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4194740",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/15809540"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/15809536"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 212,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4377981,
+            "created_at": "2015-09-09T15:43:06.000Z",
+            "updated_at": "2021-06-29T09:41:08.000Z",
+            "title": "CSRWrestling",
+            "description": "CSRWrestling a is brand of professional wrestling analysis and coverage unlike any other. You can find weekly clips of audio from Chair Shot Reality video conversations each weekend featuring Justin LaBar, Josh Isenberg, and Brian Gulish. Your middle of the week is covered with our BS with CSR podcast hosted by Blake Mitchamore and Shane Shoemaker, talking top stories in WWE, professional wrestling, and fan interaction.",
+            "formatted_description": "<p>CSRWrestling a is brand of professional wrestling analysis and coverage unlike any other. You can find weekly clips of audio from Chair Shot Reality video conversations each weekend featuring Justin LaBar, Josh Isenberg, and Brian Gulish. Your middle of the week is covered with our BS with CSR podcast hosted by Blake Mitchamore and Shane Shoemaker, talking top stories in WWE, professional wrestling, and fan interaction.</p>\n",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4377981",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/16551857"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/16551854"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 215,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4929680,
+            "created_at": "2017-09-25T18:56:51.000Z",
+            "updated_at": "2022-06-30T10:00:00.666Z",
+            "title": "True Crime Obsessed",
+            "description": "The true crime / comedy podcast YOU NEED IN YOUR LIFE. We recap your favorite true crime documentaries with humor, sass, and heart. FROM VULTURE: \"It’s not wrong to laugh when you’re listening to a true-crime podcast. Or at least I hope it isn’t, because if almost crashing my car while listening to True Crime Obsessed is wrong, I don’t want to be right.\" Hear our take on \"Abducted in Plain Sight,\" \"The Ted Bundy Tapes,\"Dirty John: The Dirty Truth\" and so many more.",
+            "formatted_description": "<p>The true crime / comedy podcast YOU NEED IN YOUR LIFE. We recap your favorite true crime documentaries with humor, sass, and heart. FROM VULTURE: \"It’s not wrong to laugh when you’re listening to a true-crime podcast. Or at least I hope it isn’t, because if almost crashing my car while listening to True Crime Obsessed is wrong, I don’t want to be right.\" Hear our take on \"Abducted in Plain Sight,\" \"The Ted Bundy Tapes,\"Dirty John: The Dirty Truth\" and so many more.</p>\r\n",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4929680",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/36105430"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/30185936"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 176,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 1689437,
+            "created_at": "2013-09-12T20:11:42.000Z",
+            "updated_at": "2022-06-13T22:05:13.302Z",
+            "title": "The Outlander Podcast­",
+            "description": "Can't get enough #Outlander? Join sisters and long-time fans Ginger and Summer as they literally chat All Things Outlander: books, TV show, Scotland, and everything in between. Whether you're a brand-new, show-only fan or have been reading the books since 'Outlander' was first published, this is the podcast for you.\n\nJoin us to continue the conversation in our exclusive Facebook community (https://www.outlanderpod.com/group) !",
+            "formatted_description": "<div>Can't get enough #Outlander? Join sisters and long-time fans Ginger and Summer as they literally chat All Things Outlander: books, TV show, Scotland, and everything in between. Whether you're a brand-new, show-only fan or have been reading the books since 'Outlander' was first published, this is the podcast for you.<br><br>\r\n</div><div>Join us to continue the conversation in our exclusive <a target=\"_blank\" rel=\"nofollow noopener\" href=\"https://www.outlanderpod.com/group\">Facebook community</a>!<br><br>\r\n</div>",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/1689437",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/34245675"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/17652183"
+                }
+            },
+            "recommendation": {
+                "position": 1,
+                "category_id": 190,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 5052719,
+            "created_at": "2021-05-26T16:50:25.000Z",
+            "updated_at": "2022-06-28T14:32:43.715Z",
+            "title": "Zane and Heath: Unfiltered",
+            "description": "Zane and Heath: Unfiltered is a weekly podcast from YouTube sensations; Zane Hijazi and Heath Hussar, two uneducated Florida boys with strong opinions and nothing to back it. Join them for some raw, uncut, and unfiltered behind the scenes content as they discuss all that transpires in their group's crazy lives when the cameras stop rolling. Be sure to grab your coffee and tune in every Monday morning because your start to the week just got a whole lot better! And by better, we mean worse.",
+            "formatted_description": "Zane and Heath: Unfiltered is a weekly podcast from YouTube sensations; Zane Hijazi and Heath Hussar, two uneducated Florida boys with strong opinions and nothing to back it. Join them for some raw, uncut, and unfiltered behind the scenes content as they discuss all that transpires in their group's crazy lives when the cameras stop rolling. Be sure to grab your coffee and tune in every Monday morning because your start to the week just got a whole lot better! And by better, we mean worse.",
+            "parent_channel_id": null,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/5052719",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/38074695"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/38068793"
+                }
+            },
+            "recommendation": {
+                "position": 2,
+                "category_id": 176,
+                "default_follow": false
+            }
+        },
+        {
+            "type": "Channel",
+            "id": 4326629,
+            "created_at": "2015-09-01T17:52:27.000Z",
+            "updated_at": "2022-06-28T04:23:53.581Z",
+            "title": "We Hate Movies",
+            "description": "Each week the WHM gang force themselves to watch bad movies that were better left forgotten to fuel off-the-wall tangents, inane impressions, and unabashed comedic silliness. This is a comedy podcast for movie lovers that can’t help but relish pure trash.",
+            "formatted_description": "<p>Each week the WHM gang force themselves to watch bad movies that were better left forgotten to fuel off-the-wall tangents, inane impressions, and unabashed comedic silliness. This is a comedy podcast for movie lovers that can’t help but relish pure trash.</p>\n",
+            "parent_channel_id": 4326749,
+            "channel_style": "podcast",
+            "urls": {
+                "web_url": "https://api.audioboom.com/channels/4326629",
+                "logo_image": {
+                    "original": "https://images.theabcdn.com/i/16396759"
+                },
+                "banner_image": {
+                    "original": "https://images.theabcdn.com/i/16396755"
+                }
+            },
+            "recommendation": {
+                "position": 2,
+                "category_id": 190,
+                "default_follow": false
+                }
+            }
+        ]
+    }
+]

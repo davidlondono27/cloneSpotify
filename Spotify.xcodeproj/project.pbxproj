@@ -7,18 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F762F8F286F5AA400A4B81F /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F762F8E286F5AA400A4B81F /* ListView.swift */; };
+		6F762F91286F5F8800A4B81F /* podcast.json in Resources */ = {isa = PBXBuildFile; fileRef = 6F762F90286F5F8800A4B81F /* podcast.json */; };
+		6FC9EEBC286A603B00B49FE1 /* podcastModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FC9EEBB286A603B00B49FE1 /* podcastModel.swift */; };
+		6FC9EEC0286A7E1700B49FE1 /* conectionAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FC9EEBF286A7E1700B49FE1 /* conectionAPI.swift */; };
+		6FC9EEC2286DF03100B49FE1 /* homeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FC9EEC1286DF03100B49FE1 /* homeView.swift */; };
 		6FDCFE012867EC73005C8EA5 /* SpotifyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDCFE002867EC73005C8EA5 /* SpotifyApp.swift */; };
 		6FDCFE032867EC73005C8EA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDCFE022867EC73005C8EA5 /* ContentView.swift */; };
 		6FDCFE052867EC77005C8EA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FDCFE042867EC77005C8EA5 /* Assets.xcassets */; };
 		6FDCFE082867EC77005C8EA5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FDCFE072867EC77005C8EA5 /* Preview Assets.xcassets */; };
+		6FDCFE102868EF1F005C8EA5 /* PodcastCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDCFE0F2868EF1F005C8EA5 /* PodcastCardView.swift */; };
+		6FDCFE1E2869289E005C8EA5 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDCFE1D2869289E005C8EA5 /* Constants.swift */; };
+		6FDCFE2028699658005C8EA5 /* Gotham-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6FDCFE1F28699658005C8EA5 /* Gotham-Light.otf */; };
+		6FDCFE22286996F3005C8EA5 /* Gotham-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6FDCFE21286996F3005C8EA5 /* Gotham-Black.otf */; };
+		6FDCFE24286996FC005C8EA5 /* Gotham-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6FDCFE23286996FC005C8EA5 /* Gotham-Bold.otf */; };
+		6FDCFE2628699705005C8EA5 /* Gotham-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6FDCFE2528699705005C8EA5 /* Gotham-Thin.otf */; };
+		6FDCFE282869970F005C8EA5 /* Gotham-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6FDCFE272869970F005C8EA5 /* Gotham-ExtraLight.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6F762F8E286F5AA400A4B81F /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		6F762F90286F5F8800A4B81F /* podcast.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = podcast.json; sourceTree = "<group>"; };
+		6FC9EEBB286A603B00B49FE1 /* podcastModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = podcastModel.swift; sourceTree = "<group>"; };
+		6FC9EEBF286A7E1700B49FE1 /* conectionAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = conectionAPI.swift; sourceTree = "<group>"; };
+		6FC9EEC1286DF03100B49FE1 /* homeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeView.swift; sourceTree = "<group>"; };
 		6FDCFDFD2867EC73005C8EA5 /* Spotify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spotify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FDCFE002867EC73005C8EA5 /* SpotifyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotifyApp.swift; sourceTree = "<group>"; };
 		6FDCFE022867EC73005C8EA5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6FDCFE042867EC77005C8EA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FDCFE072867EC77005C8EA5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6FDCFE0F2868EF1F005C8EA5 /* PodcastCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodcastCardView.swift; sourceTree = "<group>"; };
+		6FDCFE1B286927E1005C8EA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		6FDCFE1D2869289E005C8EA5 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		6FDCFE1F28699658005C8EA5 /* Gotham-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Light.otf"; sourceTree = "<group>"; };
+		6FDCFE21286996F3005C8EA5 /* Gotham-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Black.otf"; sourceTree = "<group>"; };
+		6FDCFE23286996FC005C8EA5 /* Gotham-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Bold.otf"; sourceTree = "<group>"; };
+		6FDCFE2528699705005C8EA5 /* Gotham-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Thin.otf"; sourceTree = "<group>"; };
+		6FDCFE272869970F005C8EA5 /* Gotham-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-ExtraLight.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +57,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6FC9EEBA286A602600B49FE1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6FC9EEBB286A603B00B49FE1 /* podcastModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6FC9EEBD286A7DEA00B49FE1 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				6F762F90286F5F8800A4B81F /* podcast.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		6FC9EEBE286A7DF700B49FE1 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				6FC9EEBF286A7E1700B49FE1 /* conectionAPI.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 		6FDCFDF42867EC73005C8EA5 = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +100,12 @@
 		6FDCFDFF2867EC73005C8EA5 /* Spotify */ = {
 			isa = PBXGroup;
 			children = (
+				6FC9EEBE286A7DF700B49FE1 /* ViewModel */,
+				6FC9EEBD286A7DEA00B49FE1 /* Data */,
+				6FC9EEBA286A602600B49FE1 /* Model */,
+				6FDCFE1B286927E1005C8EA5 /* Info.plist */,
+				6FDCFE1128692794005C8EA5 /* Resource */,
+				6FDCFE0E2868EED1005C8EA5 /* View */,
 				6FDCFE002867EC73005C8EA5 /* SpotifyApp.swift */,
 				6FDCFE022867EC73005C8EA5 /* ContentView.swift */,
 				6FDCFE042867EC77005C8EA5 /* Assets.xcassets */,
@@ -65,6 +120,45 @@
 				6FDCFE072867EC77005C8EA5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6FDCFE0E2868EED1005C8EA5 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6FDCFE0F2868EF1F005C8EA5 /* PodcastCardView.swift */,
+				6FC9EEC1286DF03100B49FE1 /* homeView.swift */,
+				6F762F8E286F5AA400A4B81F /* ListView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6FDCFE1128692794005C8EA5 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				6FDCFE1C28692892005C8EA5 /* Constants */,
+				6FDCFE122869279E005C8EA5 /* Font */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		6FDCFE122869279E005C8EA5 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				6FDCFE1F28699658005C8EA5 /* Gotham-Light.otf */,
+				6FDCFE21286996F3005C8EA5 /* Gotham-Black.otf */,
+				6FDCFE23286996FC005C8EA5 /* Gotham-Bold.otf */,
+				6FDCFE2528699705005C8EA5 /* Gotham-Thin.otf */,
+				6FDCFE272869970F005C8EA5 /* Gotham-ExtraLight.otf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		6FDCFE1C28692892005C8EA5 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				6FDCFE1D2869289E005C8EA5 /* Constants.swift */,
+			);
+			path = Constants;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +219,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FDCFE282869970F005C8EA5 /* Gotham-ExtraLight.otf in Resources */,
+				6FDCFE2628699705005C8EA5 /* Gotham-Thin.otf in Resources */,
+				6F762F91286F5F8800A4B81F /* podcast.json in Resources */,
+				6FDCFE24286996FC005C8EA5 /* Gotham-Bold.otf in Resources */,
 				6FDCFE082867EC77005C8EA5 /* Preview Assets.xcassets in Resources */,
+				6FDCFE22286996F3005C8EA5 /* Gotham-Black.otf in Resources */,
 				6FDCFE052867EC77005C8EA5 /* Assets.xcassets in Resources */,
+				6FDCFE2028699658005C8EA5 /* Gotham-Light.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +237,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F762F8F286F5AA400A4B81F /* ListView.swift in Sources */,
+				6FC9EEBC286A603B00B49FE1 /* podcastModel.swift in Sources */,
+				6FC9EEC0286A7E1700B49FE1 /* conectionAPI.swift in Sources */,
+				6FC9EEC2286DF03100B49FE1 /* homeView.swift in Sources */,
+				6FDCFE102868EF1F005C8EA5 /* PodcastCardView.swift in Sources */,
 				6FDCFE032867EC73005C8EA5 /* ContentView.swift in Sources */,
 				6FDCFE012867EC73005C8EA5 /* SpotifyApp.swift in Sources */,
+				6FDCFE1E2869289E005C8EA5 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,11 +376,13 @@
 				DEVELOPMENT_TEAM = SU67294ZM8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Spotify/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,11 +407,13 @@
 				DEVELOPMENT_TEAM = SU67294ZM8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Spotify/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
